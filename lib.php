@@ -7,7 +7,6 @@
 <link rel="shortcut icon" href="favicon.ico"/>
 
 <link rel="stylesheet" type="text/css" href="lib/bootstrap-3.3.7/css/bootstrap.min.css"/>
-<link rel="stylesheet" type="text/css" href="lib/datatables-1.10.12/css/jquery.dataTables.min.css"/>
 <link rel="stylesheet" type="text/css" href="lib/datatables-1.10.12/css/dataTables.bootstrap.min.css"/>
 
 <link rel="stylesheet" type="text/css" href="css/hawk.css"/>
@@ -17,6 +16,7 @@
 <script type="text/javascript" src="lib/datatables-1.10.12/js/jquery.dataTables.min.js"></script>
 <script type="text/javascript" src="lib/datatables-1.10.12/js/dataTables.bootstrap.min.js"></script>
 
+<script type="text/javascript" src="js/common.js"></script>
 <script type="text/javascript" src="js/settings.js"></script>
 
 
